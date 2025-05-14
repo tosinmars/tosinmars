@@ -6,7 +6,7 @@ CEPHAS TOSIN AKINWUSI – Junior Cybersecurity Analyst Portfolio"
 
 **Email:** akinwusitosincephas@gmail.com  
 **LinkedIn:** [LinkedIn Profile URL]  
-**GitHub:** [GitHub Profile URL]  
+**GitHub:** https://github.com/tosinmars  
 **Location:** OYO STATE NIGERIA.... Ready to relocate
 
 ---
